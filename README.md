@@ -2,6 +2,4 @@
 - previous owner of a forum
 
 
-apps i cracked: crossover
-
-planning to crack: mac auto clicker, murgaa clicker.
+my forum: exodium.cf
