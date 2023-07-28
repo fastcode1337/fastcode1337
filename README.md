@@ -10,3 +10,8 @@
   <img src="https://cdn.discordapp.com/attachments/631162287968747550/762808835546808360/line.gif" alt="fax" width="1000" height="">
 </p>
 
+Hello, I am a 17 years old croatian coder.
+
+Experienced in: C++, C#, Python, Lua, JS, Java, HTML, CSS.
+
+Currently interested in Hardware Hacking.
