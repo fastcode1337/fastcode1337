@@ -15,3 +15,12 @@ Hello, I am a 17 years old croatian coder.
 Experienced in: C++, C#, Python, Lua, JS, Java, HTML, CSS.
 
 Currently interested in Hardware Hacking.
+
+
+My Socials:
+
+Discord: syn1us
+Telegram: synius
+TikTok: @lessfoam and @vandalities
+
+Goodbye. (for now)
