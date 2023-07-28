@@ -20,7 +20,11 @@ Currently interested in Hardware Hacking.
 My Socials:
 
 Discord: syn1us
+
+
 Telegram: synius
+
+
 TikTok: @lessfoam and @vandalities
 
 Goodbye. (for now)
