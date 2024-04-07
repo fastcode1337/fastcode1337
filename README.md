@@ -10,21 +10,10 @@
   <img src="https://cdn.discordapp.com/attachments/631162287968747550/762808835546808360/line.gif" alt="fax" width="1000" height="">
 </p>
 
-Hello, I am a 17 years old croatian coder.
+hi
+nothing to see here
 
-Experienced in: C++, C#, Python, Lua, JS, Java, HTML, CSS.
+- experienced lua scripter!!!!1!1!11!
+- extreme byfron hater
 
-Currently interested in Hardware Hacking.
-
-
-My Socials:
-
-Discord: syn1us
-
-
-Telegram: synius
-
-
-TikTok: @lessfoam and @vandalities
-
-Goodbye. (for now)
+discord: mudholes
